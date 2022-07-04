@@ -1,0 +1,75 @@
+html, body{
+  background-color: black; 
+  
+}
+header{
+  text-align: center;
+  color: #ffccf4;
+  font-size:16vw; 
+  text-shadow: 0px 0px 40px #f34dff, 0px 0px 20px #ff00ea;
+  padding: 0px; 
+  
+}
+.textsecondary{
+  
+  color: #ffccf4; 
+  font-size:8vw; 
+  font-family: Staatliches;
+  text-shadow: 0px 0px 40px #f34dff, 0px 0px 20px #ff00ea;
+  
+}
+.textsecondary2{
+
+  color: #ffccf4; 
+  font-size:8vw; 
+  font-family: Staatliches;
+  text-shadow: 0px 0px 40px #f34dff, 0px 0px 20px #ff00ea;
+  
+  
+}
+.mintext{
+  font-size: 3vw;
+  margin: 0px;
+  
+}
+.bottomright{ 
+  background: #ffffff; 
+  height: 7vw;  
+}
+.images{
+  padding: 20px;
+  font-size:10vw;
+  width: 7vw;
+  text-decoration: none;
+  margin: 5px 2px;
+  filter: invert(100%);
+  border-radius: 100px;
+}
+.discord:hover{
+  filter: invert(0);
+  background-color: #454FBF;
+ 
+  transition: .6s; 
+  transform: translate(0,-10px); 
+}
+.insta:hover{
+  filter: invert(0);
+  background-color: #E1306C;
+  
+  transition: .6s;
+  transform: translate(0,-10px); 
+}
+.yt:hover{
+  filter: invert(0);
+  background-color: #ff4747;
+  
+  transition: .6s;
+  transform: translate(0,-10px); 
+}
+.git:hover{
+  filter: invert(0);
+  background-color: #ffffff; 
+  transition: .6s;
+  transform: translate(0,-10px); 
+}
+
